@@ -4,7 +4,7 @@ import TodoItems from './components/TodoItems'
 
 function App () {
   return(
-    <div className = 'bg-stone-900 grid py-4 min-h-screen'>
+    <div className = 'bg-gray-300 grid py-4 min-h-screen'>
       <Todo/>
       <TodoItems/>
       
